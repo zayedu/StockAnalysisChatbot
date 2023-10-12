@@ -3,9 +3,10 @@ import openai
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
+import API_KEY
 import yfinance as yf
 
-openai.api_key=open('API_KEY','r').read()
+openai.api_key=API_KEY.API_KEY
 
 def get_stock_price(ticker):
   return str(yf.Ticker(ticker).history(period='1y').iloc[-1].Close)
