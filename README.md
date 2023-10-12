@@ -1,5 +1,7 @@
 # Stock Market Chatbot
 
+# Go to [zayedfinance.streamlit.app](https://zayedfinance.streamlit.app/) to try this app yourself
+
 ![Chatbot Demo](Demo.jpg)
 
 ## Project Overview
