@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- For inquiries, suggestions, or collaborations, please contact [your email address](mailto:umerz@mcmaster.ca).
+- For inquiries, suggestions, or collaborations, please contact [umerz@mcmaster.ca](mailto:umerz@mcmaster.ca).
